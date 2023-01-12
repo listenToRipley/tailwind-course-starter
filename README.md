@@ -122,3 +122,5 @@ Keep this in mind if you a ~ as this is considered the "sibling selector".
 Tailwind provides are option for dark mode based on your preferences on browser or computer. Just use the `dark:` option within your classes.
 
 Make sure that you have the `darkMode: "class"` also get on your [tw config file](./tailwind.config.js).
+
+Good Luck and Good Coding.
